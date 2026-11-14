@@ -1,0 +1,6 @@
+[property]
+gpu-id=0
+model-engine-file=action_recognition_model.engine
+# Set to true so nvinfer knows data is already preprocessed
+input-tensor-from-meta=1
+network-type=100  # Custom network type for action recognition
