@@ -1,0 +1,8 @@
+[property]
+enable=1
+target-unique-ids=2  # Must match your nvinfer unique-id
+network-input-shape=1;3;32;224;224  # 32 frames sequence
+network-color-format=0  # RGB
+tensor-data-type=0      # FP32
+# Configure the sliding window step
+process-on-frame=1
