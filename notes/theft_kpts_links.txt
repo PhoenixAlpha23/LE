@@ -1,0 +1,6 @@
+Kaggle dataset
+
+1. https://www.kaggle.com/code/perfectlysane/shoplifting-nn
+2. https://www.kaggle.com/datasets/kipshidze/shoplifting-video-dataset
+3. https://www.kaggle.com/datasets/ngoduy/dataset-video-for-human-action-recognition
+4. https://www.kaggle.com/datasets/mateohervas/dcsass-dataset
